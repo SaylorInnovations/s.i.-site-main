@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Fine Parts Gallery</title>
+</head>
+<body>
+    <div class="gallery">
+        <!-- Each part is represented by a card -->
+        <div class="gallery-card">
+            <img src="part1.jpg" alt="Part 1">
+            <h3>Part 1</h3>
+            <p>Description of Part 1.</p>
+        </div>
+
+        <div class="gallery-card">
+            <img src="part2.jpg" alt="Part 2">
+            <h3>Part 2</h3>
+            <p>Description of Part 2.</p>
+        </div>
+
+        <!-- Add more cards as needed -->
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+<link rel="stylesheet" href="styles.css">
+
